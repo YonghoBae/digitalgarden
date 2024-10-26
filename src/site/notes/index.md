@@ -2,17 +2,7 @@
 {"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"]}
 ---
 
-## index
-
-hello world
-
-**dfsjlkdksf
-
-- test
-
->sdfajkflsdf
-
-
+## MyHome
 ```
 #include<iostream>
 
