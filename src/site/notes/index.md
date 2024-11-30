@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"]}
+created: 2024-08-14
+dg-publish: true
+dg-home: true
 ---
-
 ## MyHome
 ```
 #include<iostream>
