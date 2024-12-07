@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Software Engineering/Software Design/Software Design/"}
+dg-publish: true
 ---
-
 
 # Software Design
 ## Software Design이란

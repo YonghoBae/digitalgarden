@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Software Engineering/Software Design/Coupling/"}
+dg-publish: true
 ---
 
-
-# Coupling
+# 결합력
 - 두 모듈의 상호의존성 정도
 - 서로 영향을 덜 받는게 좋기 때문에 결합력은 낮은게 좋음
 #### Low Couping System(결합력이 낮아진다면)
