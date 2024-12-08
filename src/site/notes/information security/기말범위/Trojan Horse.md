@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/information security/기말범위/Trojan Horse/"}
 ---
+
 
 #  트로이 목마
 ## 전파: 사회공학

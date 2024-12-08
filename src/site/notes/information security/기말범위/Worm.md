@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/information security/기말범위/Worm/"}
 ---
+
 
 # 웜
 ## 전파: 취약점 이용

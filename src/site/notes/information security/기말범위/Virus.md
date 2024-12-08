@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/information security/기말범위/Virus/"}
 ---
+
 
 # 바이러스
 ## 바이러스의 성질
