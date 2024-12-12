@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/information security/기말범위/APT/"}
+dg-publish: true
 ---
-
 
 # 지능형 지속 위협
 ## APT 공격
@@ -37,8 +36,8 @@
 ## APT 수행 단계
 #### 1. 표적 시스템 인식(Targeted System Recongnition)
 - 침입 전 표적 시스템에 대한 정보 수집 활동
-- 기술적인 방법으로 포트 스캔을 통해서 침입 가능한 포트(port)를 검색
-- 비기술적인 방법으로는 Social engineering을 통해서 보안 정보에 접근권한이 있는 담당자의 이메일 주소 등을 획득 후 Spear phishing, USB 감염 등을 위한 수단을 사용
+	- 기술적인 방법: 포트 스캔 -> 침입가능한 포트
+	- 비기술적인 방법: Social engineering -> Spear phishing, USB 감염 등에 사용
 
 #### 2. 초기 침투(Initial Intrusion)
 - 실질적인 APT 공격이 이루어지는 단계
@@ -66,10 +65,9 @@
 - 공격자의 목적은 대표적으로 시스템 파괴와 기밀 정보의 유출
 - Antivirus에 탐지되지 않게 하기 위해서 정보는 암호화, 파일압축, 파일 분할 등의 기법을 사용
 
-
 #### 7. 숨김(Hiding)
-- APT 공격은 지속적인 공격을 위해서 특별한 이벤트가 없는 동안 악성 소프트웨어를 숨김
-- 몇몇의 APT 공격은 Rootkit을 포함하고있으며 이를 통해 시스템의 루트 권한을 획득
+- APT 공격은 지속적 공격을 위해서 특별한 이벤트가 없는 동안 악성 소프트웨어를 숨김
+- 몇몇은 Rootkit을 포함(루트권한)
 - Rootkit을 이용하여 Malware의 행동을 숨김
 
 ## APT 공격 사례
