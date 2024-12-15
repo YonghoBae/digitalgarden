@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/Software Engineering/Software Design/Coupling/"}
 ---
+
 
 # 결합력
 - 두 모듈의 상호의존성 정도
