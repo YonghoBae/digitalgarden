@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/main/","tags":["gardenEntry"]}
 ---
 
 ## MyHome
-```
+```c
 #include<iostream>
 
 int main(){
