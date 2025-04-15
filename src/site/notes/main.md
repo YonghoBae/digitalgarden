@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/main/","metatags":{"google-site-verification":"20MA_khcMkhCRMF1pekcIxcPFGjEOr7Gyzxr3VbAaDo"},"tags":["gardenEntry"]}
 ---
 
 ## MyHome
