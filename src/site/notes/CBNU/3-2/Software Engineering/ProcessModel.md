@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/CBNU/3-2/Software Engineering/ProcessModel/"}
+dg-publish: true
 ---
-
 
 
 # 소프트웨어 프로세스 모델
