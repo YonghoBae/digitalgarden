@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/CBNU/3-2/Software Engineering/ProjectManagement/"}
 ---
+
 
 
 - **소프트웨어 프로젝트 관리**

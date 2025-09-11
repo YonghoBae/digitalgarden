@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/CBNU/3-2/Software Engineering/Software Design/Software Design/"}
 ---
+
 
 # Software Design
 ## Software Design이란

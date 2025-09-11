@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/CBNU/3-2/Software Engineering/Software Design/Inspection/"}
 ---
+
 
 ### **소프트웨어 공학에서의 Inspection: 전체 강의 내용 정리**
 

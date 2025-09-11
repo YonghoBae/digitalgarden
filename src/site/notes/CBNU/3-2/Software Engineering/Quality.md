@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-created: 2024-10-24
+{"dg-publish":true,"permalink":"/CBNU/3-2/Software Engineering/Quality/"}
 ---
+
 
 ## 소프트웨어 공학의 목표 재검토
  
