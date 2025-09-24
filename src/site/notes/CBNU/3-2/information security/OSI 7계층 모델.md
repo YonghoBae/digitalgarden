@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/CBNU/3-2/information security/OSI 7계층 모델/"}
 ---
+
 
 ## 맨날 생각 안나서 적어야겠다
 

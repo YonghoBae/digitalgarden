@@ -14,6 +14,8 @@
 
 
 ![Pasted image 20250310220048.png](/img/user/Image/Pasted%20image%2020250310220048.png)
+
+
 ## 참고
 #### 공식 사이트
 - https://www.jenkins.io/doc/book/installing/linux/#debianubuntu
