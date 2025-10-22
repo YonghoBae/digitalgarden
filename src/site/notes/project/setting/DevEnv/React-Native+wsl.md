@@ -6,7 +6,7 @@
 # React Native + WSL2 개발환경 구축
 
 ## WSL 설치
-[[project/setting/DevEnv/wsl\|WSL 세팅]]
+[[project/setting/WSL/wsl\|WSL 세팅]]
 
 
 ## Node.js 및 React Native 환경 구성
@@ -75,7 +75,7 @@ source ~/.bashrc
 
 ## ADB 설정 및 디바이스 연결 (USB 실기기 디버깅)
 - 기본적으로 wsl은 컴퓨터의 USB 포트를 인식하지 못한다. 따라서 따로 설정이 필요하다.
-- [[project/setting/DevEnv/wsl usb\|wsl USB 연결 설정]]
+- [[project/setting/WSL/wsl usb\|wsl USB 연결 설정]]
 
 ### WSL에서 장치 인식 확인
 
