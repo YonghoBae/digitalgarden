@@ -64,3 +64,4 @@
 
 ```bash
 docker-compose restart nginx_proxy
+```

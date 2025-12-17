@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/project/algorithm/DFS/"}
+dg-publish: true
 ---
-
 
 ## DFS 특징
 - 유일하게 결정X 

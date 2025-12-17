@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/project/study/Java/Java API/"}
+dg-publish: true
 ---
-
 
 
 ## 1. Java API란?
