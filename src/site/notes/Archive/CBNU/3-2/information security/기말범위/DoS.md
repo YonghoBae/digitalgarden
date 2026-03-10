@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/Archive/CBNU/3-2/information security/기말범위/DoS/"}
 ---
+
 
 # 서비스 거부 공격
 ## NIST 컴퓨터 보안 사고 처리 가이드 정의

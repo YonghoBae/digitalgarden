@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/project/setting/DevEnv/React-Native+wsl/"}
 ---
+
 
 # React Native + WSL2 개발환경 구축
 

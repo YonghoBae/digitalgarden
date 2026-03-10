@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/project/setting/Deploy/Google Search Console/"}
 ---
+
 
 ![Pasted image 20250415112910.png](/img/user/Image/Pasted%20image%2020250415112910.png)
 

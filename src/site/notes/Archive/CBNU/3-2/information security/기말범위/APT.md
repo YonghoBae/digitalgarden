@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/Archive/CBNU/3-2/information security/기말범위/APT/"}
 ---
+
 
 # 지능형 지속 위협
 ## APT 공격

@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/project/setting/CICD/Github Actions/Github Actions/"}
 ---
+
 # `git push` 하나로 완성되는 나만의 배포 파이프라인 구축기
 
 ## 왜 CI/CD를 구축해야만 했나?

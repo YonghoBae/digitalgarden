@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/project/setting/Cloud Computing/vagrant, ansible/"}
 ---
+
 
 ## **1. 실습 개요 및 환경 구성 Rationale**
 

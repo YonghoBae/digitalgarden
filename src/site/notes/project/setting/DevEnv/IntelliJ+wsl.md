@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/project/setting/DevEnv/IntelliJ+wsl/"}
 ---
+
 
 
 ## WSL에서 JDK + IntelliJ 개발환경 설정

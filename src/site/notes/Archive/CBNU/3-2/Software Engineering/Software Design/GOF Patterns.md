@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/Archive/CBNU/3-2/Software Engineering/Software Design/GOF Patterns/"}
 ---
+
 아래는 요청하신 형식에 맞춰 디자인 패턴을 요약한 내용입니다.
 
 ---

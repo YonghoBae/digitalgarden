@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/Archive/CBNU/3-2/information security/기말범위/Attack kit/"}
 ---
+
 
 # 공격 킷
 #### 초기

@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/project/setting/Docker/Docker Start(window)/"}
 ---
+
 
 ![Pasted image 20250615171841.png](/img/user/Image/Pasted%20image%2020250615171841.png)
 
