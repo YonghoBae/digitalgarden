@@ -516,6 +516,9 @@ module.exports = function (eleventyConfig) {
         minifyCSS: true,
         minifyJS: true,
         keepClosingSlash: true,
+        ignoreCustomFragments: [
+          /<pre class="mermaid">[\s\S]*?<\/pre>/,
+        ],
       });
     }
     return content;
