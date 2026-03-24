@@ -15,7 +15,7 @@ Java/Spring Boot · 모니터링 시스템 · AI Agent
 - [[_Backend\|_Backend]] — 백엔드 설계 · 아키텍처
 - [[02 - Knowledge/Computing/Web/_Web\|_Web]] — 웹 기술
 - [[02 - Knowledge/Computing/Java/_Java\|_Java]] — Java
-- [[02 - Knowledge/Computing/AI/_AI\|_AI]] — AI · LLM
+- [[02 - Knowledge/AI/_AI\|_AI]] — AI · LLM
 - [[02 - Knowledge/Computing/Algorithm/_Algorithm\|_Algorithm]] — 알고리즘
 - [[02 - Knowledge/Computing/DataStructure/_DataStructure\|_DataStructure]] — 자료구조
 - [[02 - Knowledge/Computing/Git/_Git\|_Git]] — Git
